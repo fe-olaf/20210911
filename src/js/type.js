@@ -51,3 +51,4 @@ console.log('name', name)
 // function add(a:number, b:number): number {}
 // add('홍') => Error
 
+
